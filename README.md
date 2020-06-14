@@ -1,2 +1,3 @@
-# La-Masacre-de-Duran
+# La Masacre de Duran
+
 Repositorio del Danmaku Cooperativo descentralizado que crearemos.
